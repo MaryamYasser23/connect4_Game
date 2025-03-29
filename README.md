@@ -32,8 +32,8 @@ This is a **console-based Connect 4 game** built using **C++**, featuring:
 - **User input handling** using `_kbhit()` and `_getch()`  
 
 ## 🔊 Sound Effects  
-- **`welcome.wav`** → Intro music  
+- **`welcome.wav`** → Intro  
 - **`drop.wav`** → When a piece is placed  
 - **`win.wav`** → Winning sound  
-- **`lose.wav`** → Draw sound  
+- **`lose.wav`** → Lose/Draw sound  
 - **`final.wav`** → Game over  
